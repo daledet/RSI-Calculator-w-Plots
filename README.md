@@ -1,3 +1,0 @@
-# RSI-Calculator-w-Plots
-
-
